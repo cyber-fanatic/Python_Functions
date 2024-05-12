@@ -1,5 +1,5 @@
 # Python_Functions
-- n this repository we will discuss the functions in python.
+- In this repository we will discuss the functions in python.
 - A **function** is a **named** block of **reusable code** that performs a **specific task**. It allows you to organize your code into manageable chunks, making it **easier** to **read**, **understand**, and **maintain**.
 ## Example:
 ```python3
