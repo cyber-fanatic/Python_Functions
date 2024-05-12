@@ -16,3 +16,7 @@ hello("Sherry")
 - **()** is used to enclose the **parameters** of the function (which are **name** in this case).
 - **print(f"Hello, {name}!")** is the code block inside the function that prints **"Hello, name"**.
 - **Calling** the function **hello()** executes the code inside the function and **prints "Hello,Sherry"**.
+# Diffrence between print() and return ():
+The **print()** and **return()** both are the same functons but common **diffrence** is that 
+you **can't save the output of print functon** in some other  veriable while using **return() function
+you will be able to store the output of the function** in other veriables.
